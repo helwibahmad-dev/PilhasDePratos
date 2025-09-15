@@ -1,0 +1,3 @@
+No contexto da atividade, cada prato limpo vai para o topo da pilha, a opreção push representa isso, nisso garante que o ultimo prato adicionado será o primeiro a ser retirado.
+Quando o aluno for pegar um prato ocorre a operação pop, que remove apenas o item do topo.
+Quando o atendente quiser verificar qual é o proximo prato disponivel, ocorre a operação peek. que permite que ele vizualise sem precisar retirar os pratos.
